@@ -28,13 +28,7 @@
           "config": {
             "name": "casbokta"
           }
-        },
-        {
-          "name": "electron-forge/maker-dmg",
-          "config": {
-            "name": "casbokta"
-          }
-        },
+        },     
         {
           "name": "@electron-forge/maker-zip",
           "platforms": [
@@ -61,11 +55,9 @@
   "devDependencies": {
     "@electron-forge/cli": "^6.0.0-beta.50",
     "@electron-forge/maker-deb": "^6.0.0-beta.50",
-    "@electron-forge/maker-dmg": "^6.0.0-beta.50",
     "@electron-forge/maker-rpm": "^6.0.0-beta.50",
     "@electron-forge/maker-squirrel": "^6.0.0-beta.50",
     "@electron-forge/maker-zip": "^6.0.0-beta.50",
     "electron": "8.1.0",
-    "electron-installer-dmg": "^3.0.0"
   }
 }
