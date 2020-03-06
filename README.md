@@ -18,6 +18,6 @@ npm install
 npm start
 ```
 
-## Releases
+## Releases (Installers)
 
-https://github.com/TomerHeber/casbokta/releases/download/v0.1.0/casbokta-0.1.0.Setup.exe
+* [windows](https://github.com/TomerHeber/casbokta/releases/download/v0.1.0/casbokta-0.1.0.Setup.exe)
