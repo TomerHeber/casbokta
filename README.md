@@ -18,6 +18,6 @@ npm install
 npm start
 ```
 
-## Release
+## Releases
 
-A Windows installer is available casbokta-0.1.0.Setup.exe
+https://github.com/TomerHeber/casbokta/releases/download/v0.1.0/casbokta-0.1.0.Setup.exe
