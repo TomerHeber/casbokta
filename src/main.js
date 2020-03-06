@@ -1,4 +1,7 @@
 const { app, BrowserWindow, Menu, shell, ipcMain } = require('electron');
+
+if (require('electron-squirrel-startup')) return app.quit();
+
 const keytar = require('keytar');
 const Store = require('electron-store');
 const axios = require('axios');
