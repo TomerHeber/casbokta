@@ -21,3 +21,4 @@ npm start
 ## Releases (Installers)
 
 * [windows](https://github.com/TomerHeber/casbokta/releases/download/v0.1.0/casbokta-0.1.0.Setup.exe)
+* [macOS](https://github.com/TomerHeber/casbokta/releases/download/v0.1.0/casbokta-darwin-x64-0.1.0.zip)
