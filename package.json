@@ -29,6 +29,12 @@
             "name": "casbokta"
           }
         },
+	{
+           "name": '@electron-forge/maker-dmg',
+  	   "config": {
+             "name": "casbokta"
+           }
+	},
         {
           "name": "@electron-forge/maker-zip",
           "platforms": [
