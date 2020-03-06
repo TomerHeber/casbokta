@@ -6,11 +6,11 @@ https://help.okta.com/en/prod/Content/Topics/Apps/CASB-config-guide.htm
 
 ## Installation
 
-### Requirements
+#### Requirements
 * [npm](https://www.npmjs.com/get-npm)
 * [git](https://git-scm.com/downloads)
 
-### In command prompt, shell or terminal
+#### In command prompt, shell or terminal
 ```console
 git clone https://github.com/TomerHeber/casbokta.git
 cd casbokta
