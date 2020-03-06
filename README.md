@@ -17,3 +17,7 @@ cd casbokta
 npm install
 npm start
 ```
+
+## Release
+
+A Windows installer is available casbokta-0.1.0.Setup.exe
