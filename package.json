@@ -28,7 +28,7 @@
           "config": {
             "name": "casbokta"
           }
-        },     
+        },
         {
           "name": "@electron-forge/maker-zip",
           "platforms": [
@@ -50,14 +50,14 @@
     "axios": "^0.19.2",
     "electron-squirrel-startup": "^1.0.0",
     "electron-store": "^5.1.1",
-    "keytar": "^5.4.0"
+    "keytar": "^5.6.0"
   },
   "devDependencies": {
-    "@electron-forge/cli": "^6.0.0-beta.50",
-    "@electron-forge/maker-deb": "^6.0.0-beta.50",
-    "@electron-forge/maker-rpm": "^6.0.0-beta.50",
-    "@electron-forge/maker-squirrel": "^6.0.0-beta.50",
-    "@electron-forge/maker-zip": "^6.0.0-beta.50",
+    "@electron-forge/cli": "^6.0.0-beta.51",
+    "@electron-forge/maker-deb": "^6.0.0-beta.51",
+    "@electron-forge/maker-rpm": "^6.0.0-beta.51",
+    "@electron-forge/maker-squirrel": "^6.0.0-beta.51",
+    "@electron-forge/maker-zip": "^6.0.0-beta.51",
     "electron": "8.1.0"
   }
 }
